@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LCDfoot")(type "KiCad")(uri "${KIPRJMOD}/LCDfoot.pretty")(options "")(descr ""))
+  (lib (name "SWITCHMTS101")(type "KiCad")(uri "${KIPRJMOD}/SWITCHMTS101.pretty")(options "")(descr ""))
+)
