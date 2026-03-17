@@ -534,7 +534,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../TEST_project.stl",
+      "step": "../TEST_project.step",
       "svg": "",
       "vrml": ""
     },
@@ -749,10 +749,6 @@
     [
       "8d1e142d-f597-4f42-9924-2c2d8a02e191",
       "ESP32"
-    ],
-    [
-      "ae54b3ae-d394-406b-8c3d-a2856d0e600b",
-      "SAMD21"
     ],
     [
       "cc52d504-ee5c-4453-a3fc-e3a463e2b795",
