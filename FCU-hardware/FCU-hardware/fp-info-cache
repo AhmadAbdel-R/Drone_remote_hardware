@@ -1,4 +1,4 @@
-27239339144649077
+27241100100324809
 7447798221
 WE-PDF_1064
 
@@ -67689,13 +67689,6 @@ solder jumper open
 0
 3
 3
-LCDfoot
-Waveshare_2inch_foot
-
-
-0
-8
-8
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -100038,6 +100031,20 @@ rotary encoder illuminated switch vertical
 8
 SRN6045TA_220M
 IND_SRN6045TA-220M
+
+
+0
+2
+2
+SWITCHMTS101
+Untitled
+
+
+0
+2
+2
+SWITCHMTS101
+mts101sw
 
 
 0
