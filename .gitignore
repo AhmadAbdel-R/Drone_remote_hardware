@@ -1,0 +1,13 @@
+# KiCad/EDA local files
+*.kicad_prl
+*.kicad_prl-bak
+*~
+*.lck
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temp and logs
+*.tmp
+*.log
